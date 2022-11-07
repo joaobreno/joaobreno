@@ -30,7 +30,6 @@ When I'm not working, I study for backend development, play computer and board g
  <img alt="Django" src="https://img.shields.io/badge/django-%230d1117.svg?style=for-the-badge&logo=django"/>
  <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%230d1117.svg?style=for-the-badge&logo=nodedotjs"/>
  <img alt="Express" src="https://img.shields.io/badge/express-%230d1117.svg?style=for-the-badge&logo=express"/>
- <img alt="Postgres" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="Bootstrap CSS" src="https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap"/>
  <img alt="Bulma" src="https://img.shields.io/badge/bulma-%230d1117?style=for-the-badge&logo=bulma"/>

@@ -20,7 +20,7 @@ When I'm not working, I study for backend development, play computer and board g
 
 <br />
 
-## TECHS & SKILLS
+<p align="center" style="font-size: 24px; font-weight: bold;">TECHS & SKILLS</p>
 <p align="justify">
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
@@ -55,5 +55,4 @@ When I'm not working, I study for backend development, play computer and board g
 ## MY STATS
 <p align="left">
 
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobreno&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=joaobreno&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
-</p>
+ <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobreno&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>

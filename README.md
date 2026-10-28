@@ -1,58 +1,50 @@
-### Hey there! 
+# Hi, I'm João Breno 👋
 
+### Backend Developer | Systems Analyst
 
-<br />
+I'm a software developer from **Manaus, Brazil**, focused on building APIs and integrating systems with **Python and Django**.
 
-<br />
+I work on software for industrial operations, contributing to backend development, process automation, and frontend features. I enjoy collaborating with multidisciplinary teams to turn business needs into practical solutions.
 
+- 🐍 Building REST APIs with Python, Django, and Django REST Framework
+- 🔄 Working with system integrations and process automation
+- 🐳 Using Docker and GitLab CI in development workflows
+- 🌱 Growing my skills in backend development and software delivery
 
-Hi, I'm João Breno, a passionate self-taught web developer and freelance systems analysis and development student from Manaus. My passion for software is in dreaming up ideas and making them come true with practical and interactive interfaces. I always try to maintain the code quality of the things I build.
+## 🛠️ Tech stack
 
-Skilled in designing, managing and planning the production of projects, I have a natural ability to collaborate and help lead as a dynamic and dedicated professional.
+**Backend & APIs**
 
-When I'm not working, I study for backend development, play computer and board games, watch TV series.
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-0d1117?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs)
 
+**Frontend**
 
-  <img align="right" alt="GIF" src="code_team.gif" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:jbrenopamplona@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
 
-<br />
+**Databases**
 
-<p align="center" style="font-size: 24px; font-weight: bold;">TECHS & SKILLS</p>
-<p align="justify">
- <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
- <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="Python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
- <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
- <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
- <img alt="Django" src="https://img.shields.io/badge/django-%230d1117.svg?style=for-the-badge&logo=django"/>
- <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%230d1117.svg?style=for-the-badge&logo=nodedotjs"/>
- <img alt="Express" src="https://img.shields.io/badge/express-%230d1117.svg?style=for-the-badge&logo=express"/>
- <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
- <img alt="Bootstrap CSS" src="https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap"/>
- <img alt="Bulma" src="https://img.shields.io/badge/bulma-%230d1117?style=for-the-badge&logo=bulma"/>
- <img alt="Postgres" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
- <img alt="MySQL" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
- 
-</p>
- 
-<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0d1117?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb)
 
-## SOCIAL & CONTACTS
-<p align="justify">
-<a href="https://www.linkedin.com/in/brenopamplona"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://www.instagram.com/joaobrenopamplona"><img src="https://img.shields.io/badge/joaobrenopamplona-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
-<a href="https://t.me/brenopamplona"><img src="https://img.shields.io/badge/Telegram-%230d1117?style=for-the-badge&logo=telegram&logoColor=#E4405F"/></a>
-<a href="https://twitter.com/joaobDEV"><img src="https://img.shields.io/badge/@joaobDEV-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+**Testing, delivery & tools**
 
-</p>
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-0d1117?style=for-the-badge&logo=gitlab)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-0d1117?style=for-the-badge&logo=pytest)
 
-<br />
-<hr>
+## 🤝 Let's connect
 
-## MY STATS
-<p align="left">
-
- <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaobreno&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brenopamplona)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:jbrenopamplona@gmail.com)
